@@ -1,6 +1,8 @@
 # Android Application - Habit Tracking Social App
 GOALog is an innovative social media platform designed to bring together individuals who share similar lifestyles and habits. It aims to create a supportive and engaging online community where users can connect, interact, and inspire one another to achieve their goals.
 
+All commits, issues trackings, and wikis are available in our organization repo: https://github.com/CMPUT301F21T45/GoAlog
+
 ## CMPUT 301 Introduction to Software Engineering
 
 Object-oriented design and analysis, with interactive applications as the primary example. Topics include: software process; revision control; Unified Modeling Language (UML); requirements; software architecture, design patterns, frameworks, design guidelines; unit testing; refactoring; software tools. https://apps.ualberta.ca/catalogue/archive/course/cmput/301/1770
